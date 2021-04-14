@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1610211138 source:c:\users\minea\desktop\grafic\evaluator\grafica\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+	"eval.h"
+	"functiiGrafice.h"
+
+1610192151 c:\users\minea\desktop\grafic\evaluator\grafica\eval.h
+	<iostream>
+
+1610211531 c:\users\minea\desktop\grafic\evaluator\grafica\functiigrafice.h
+	<fstream>
+	<cmath>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+
+1610269649 source:c:\users\minea\desktop\evaluator\grafica\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+	"eval.h"
+	"functiiGrafice.h"
+
+1610192151 c:\users\minea\desktop\evaluator\grafica\eval.h
+	<iostream>
+
+1610211531 c:\users\minea\desktop\evaluator\grafica\functiigrafice.h
+	<fstream>
+	<cmath>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+
+1610615199 source:c:\users\minea\desktop\grafica\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+	"eval.h"
+	"functiiGrafice.h"
+	"meniu.h"
+
+1610192151 c:\users\minea\desktop\grafica\eval.h
+	<iostream>
+
+1610618360 c:\users\minea\desktop\grafica\functiigrafice.h
+	<fstream>
+	<cmath>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<iomanip>
+
+1610615140 c:\users\minea\desktop\grafica\meniu.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+
+1610618799 source:d:\informatica\anul_1\semestrul_1\1b2_ivan.remus_minea.mihai_grafic-graficul.unei.functii\grafic-graficul unei functii\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+	"eval.h"
+	"functiiGrafice.h"
+	"meniu.h"
+
+1610195751 d:\informatica\anul_1\semestrul_1\1b2_ivan.remus_minea.mihai_grafic-graficul.unei.functii\grafic-graficul unei functii\eval.h
+	<iostream>
+
+1610621960 d:\informatica\anul_1\semestrul_1\1b2_ivan.remus_minea.mihai_grafic-graficul.unei.functii\grafic-graficul unei functii\functiigrafice.h
+	<fstream>
+	<cmath>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<iomanip>
+
+1618423168 d:\informatica\anul_1\semestrul_1\1b2_ivan.remus_minea.mihai_grafic-graficul.unei.functii\grafic-graficul unei functii\meniu.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+
+1610618799 source:c:\users\minea\desktop\mihai\test\grafic-graficul unei functii\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+	"eval.h"
+	"functiiGrafice.h"
+	"meniu.h"
+
+1610195751 c:\users\minea\desktop\mihai\test\grafic-graficul unei functii\eval.h
+	<iostream>
+
+1610621960 c:\users\minea\desktop\mihai\test\grafic-graficul unei functii\functiigrafice.h
+	<fstream>
+	<cmath>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<iomanip>
+
+1618423427 c:\users\minea\desktop\mihai\test\grafic-graficul unei functii\meniu.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<cmath>
+	<cstring>
+	<stdio.h>
+
