@@ -1,3 +1,5 @@
 # Graficul-Unei-Functii
 
-app ---> grafica.exe
+Download and Extract
+
+run : grafica.exe
